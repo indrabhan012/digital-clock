@@ -1,0 +1,10 @@
+.form-heading{
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    align-content: center;
+    background-color: gray;
+    color:beige;
+    height: 50px;
+    padding: 10px;
+}
